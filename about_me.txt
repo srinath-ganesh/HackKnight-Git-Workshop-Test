@@ -5,3 +5,5 @@ I'm Srinath Ganesh! This is my first git repository
 I also like coding!
 
 I like tea and sometimes I like Milk!
+
+I also occasionally play video games.
